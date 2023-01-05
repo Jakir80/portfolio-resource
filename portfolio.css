@@ -169,3 +169,125 @@ h3 {
 .skill-description {
   font-size: 16px;
 }
+.resume-main {
+  margin-left: 380px;
+  margin-right: 380px;
+}
+.resume-main {
+  display: flex;
+  gap: 15px;
+  padding-bottom: 20px;
+  left: 20px;
+}
+.resume-education {
+  border-bottom: 2px solid #f3f3f3;
+  margin-top: 15px;
+}
+.resume-experience {
+  border-bottom: 2px solid #f3f3f3;
+  margin-top: 15px;
+}
+.my-summary {
+  margin: 100px 100px;
+  text-align: center;
+  font-weight: 700;
+  font-size: 50px;
+}
+.btn-third {
+  color: #f1f0ef;
+  background-color: #fd6e0a;
+  border-radius: 5px;
+  border: none;
+  font-weight: 500;
+  width: 150px;
+  height: 64px;
+
+  font-size: 21px;
+  margin-left: 850px;
+  margin-top: 30px;
+  margin-bottom: 20px;
+}
+.contact {
+  background-color: #fff8f3;
+}
+.contact-start {
+  display: flex;
+  max-width: 1140px;
+}
+.for-margin-left {
+  margin-left: 380px;
+}
+.contact-left h3 {
+  font-size: 25px;
+  margin-left: 380px;
+}
+.contact-left p {
+  margin-bottom: 20px;
+}
+.contact-left a {
+  text-decoration: none;
+}
+.contact-right h3 {
+  font-size: 25px;
+  text-align: left;
+}
+.div-for-form {
+  margin-left: 348px;
+}
+.text-input {
+  width: 461px;
+  height: 64px;
+  background: #ffffff;
+  border-radius: 5px;
+  margin-right: 700px;
+  border: none;
+  padding-left: 20px;
+  margin-top: 24px;
+}
+.text-area {
+  width: 461px;
+  height: 180px;
+  background: #ffffff;
+  border-radius: 5px;
+  margin-right: 700px;
+  border: none;
+  padding-left: 20px;
+  margin-top: 24px;
+  text-align: left;
+}
+.btn-four {
+  color: #f1f0ef;
+  background-color: #fd6e0a;
+  border-radius: 5px;
+  border: none;
+  font-weight: 500;
+  width: 150px;
+  height: 64px;
+  font-size: 20px;
+}
+.for-four-button {
+  margin-left: 350px;
+  margin-top: 50px;
+}
+.experience-1 {
+  font-size: 25px;
+  margin-bottom: 10px;
+  font-weight: 700;
+}
+.experience-2 {
+  font-weight: 600;
+  font-size: 20px;
+  color: #757575;
+  margin-bottom: 15px;
+}
+.experience-3 {
+  font-size: 20px;
+  color: #757575;
+  margin-bottom: 15px;
+}
+}
+.experience-4 {
+  margin-bottom: 15px;
+  font-size: 16px;
+  color: #757575;
+}
